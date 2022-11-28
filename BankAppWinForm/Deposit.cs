@@ -61,5 +61,10 @@ namespace BankAppWinForm
             home.Show();
             Hide();
         }
+
+        private void Deposit_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

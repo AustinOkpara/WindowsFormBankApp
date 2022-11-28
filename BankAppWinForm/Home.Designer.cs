@@ -151,7 +151,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.MistyRose;
+            this.panel1.BackColor = System.Drawing.Color.Gainsboro;
             this.panel1.Location = new System.Drawing.Point(114, 217);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(601, 21);
@@ -159,7 +159,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.MistyRose;
+            this.panel2.BackColor = System.Drawing.Color.Gainsboro;
             this.panel2.ForeColor = System.Drawing.Color.DarkGray;
             this.panel2.Location = new System.Drawing.Point(114, 353);
             this.panel2.Name = "panel2";

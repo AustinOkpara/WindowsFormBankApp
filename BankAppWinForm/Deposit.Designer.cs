@@ -130,6 +130,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Deposit";
             this.Text = "Deposit";
+            this.Load += new System.EventHandler(this.Deposit_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
